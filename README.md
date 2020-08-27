@@ -1,2 +1,2 @@
 # VMC-1D
-Variational monte carlo implemented for the 1D Heisenberg Model. (Fortran90)
+Variational Monte Carlo implemented for the 1D Heisenberg Model and the Haldane-Shastry Model using a Gutzwiller projected wave function as the initial ansatz. (Fortran90) 
