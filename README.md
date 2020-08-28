@@ -1,4 +1,4 @@
-# VMC-1D
+# VMC-1D (Under Construction)
 Variational Monte Carlo implemented for the 1D Heisenberg Model and the Haldane-Shastry Model using a Gutzwiller projected wave function as the initial ansatz. (Fortran90) 
 
 
