@@ -11,7 +11,12 @@ Variational Monte Carlo implemented for the 1D Heisenberg Model and the Haldane-
 
  History:
 
-  v1.0 (08/27/20) - First implementation 
+  v1.0 (08/27/20) - First implementation in f90
+  
+ Future intended changes:
+  - implementation of modern fortran (>=2008);
+  - python script for plots;
+  - python interface to link both the fortran file and the plots automatically;
 
  ---------------------- Informations ---------------------------------
 
