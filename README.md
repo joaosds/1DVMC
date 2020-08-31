@@ -17,6 +17,7 @@ Variational Monte Carlo implemented for the 1D Heisenberg Model and the Haldane-
   - implementation of modern fortran (>=2008);
   - python script for plots;
   - python interface to link both the fortran file and the plots automatically;
+  - spin spin correlation for long range haldane-shastry;
 
  ---------------------- Informations ---------------------------------
 
