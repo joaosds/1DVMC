@@ -18,7 +18,8 @@ Variational Monte Carlo implemented for the 1D Heisenberg Model and the Haldane-
   - python script for plots;
   - python interface to link both the fortran file and the plots automatically;
   - spin spin correlation for long range haldane-shastry;
-
+  - Implement automatic routine to check if input matrix is ill conditioned and employ the svd - or other method - to obtain
+  the pseudo-inverse/inverse matrix;
  ---------------------- Informations ---------------------------------
 
  File 'random.f90' - All codes responsible for random generating numbers
