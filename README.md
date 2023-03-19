@@ -23,8 +23,7 @@ Variational Monte Carlo implemented for the 1D Heisenberg Model and the Haldane-
  ---------------------- Informations ---------------------------------
 
  File 'random.f90' - All codes responsible for random generating numbers
- and related topics/ we use the implementation 'rkiss05.f90' by Thomas Vojta,
- vojta@mst.edu
+ and related quantities.
 
  File 'vmcvariables.f90' - Global variables
 
